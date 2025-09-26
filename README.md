@@ -30,8 +30,3 @@ Building **infra that doesn’t fall over** and hacking on **USB/HID/DMA weirdne
 - 📊 **Datadog Integrations** – Kyverno metrics, custom log pipelines
 - 🌐 **Terraform EKS Module** – powering multi-tenant infra @ scale
 
----
-
-## 📬 Connect
-- GitHub Issues > LinkedIn messages  
-- I write docs here: [docs.yourdomain.dev](https://docs.yourdomain.dev)
