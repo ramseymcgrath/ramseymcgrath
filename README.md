@@ -25,8 +25,7 @@ Building **infra that doesn’t fall over** and hacking on **USB/HID/DMA weirdne
 ---
 
 ## 📈 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=ramseymcgrath&theme=dark&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramseymcgrath&layout=compact&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramseymcgrathfd&layout=compact&theme=dark&hide_border=true)
 
 ---
 
