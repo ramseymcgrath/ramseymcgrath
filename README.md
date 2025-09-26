@@ -24,11 +24,6 @@ Building **infra that doesn’t fall over** and hacking on **USB/HID/DMA weirdne
 
 ---
 
-## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramseymcgrathfd&layout=compact&theme=dark&hide_border=true)
-
----
-
 ## 📡 Recent Projects
 - 🔬 **DMA Firmware Generator** – automate Vivado flows + PCIe stealth configs
 - 🖱️ **USB HID Proxy** – ultra-low-latency mouse passthrough/injection
