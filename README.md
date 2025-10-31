@@ -30,3 +30,20 @@ Building **infra that doesn’t fall over** and hacking on **USB/HID/DMA weirdne
 - 📊 **Datadog Integrations** – Kyverno metrics, custom log pipelines
 - 🌐 **Terraform EKS Module** – powering multi-tenant infra @ scale
 
+---
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com//PTALTS-LK/Profile-snake-gif/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com//PTALTS-LK/Profile-snake-gif/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com//PTALTS-LK/Profile-snake-gif/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
