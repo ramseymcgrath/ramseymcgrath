@@ -1,4 +1,4 @@
-# Ramsey McGrath
+u# Ramsey McGrath
 
 Staff Compute-Operations Engineer @ FanDuel  
 Building **infra that doesn’t fall over** and hacking on **USB/HID/DMA weirdness** in my spare time.  
@@ -7,7 +7,7 @@ Building **infra that doesn’t fall over** and hacking on **USB/HID/DMA weirdne
 
 ## ⚡ Quick Facts
 - 🚀 Focus: Kubernetes, Terraform, Observability, USB HID bridges
-- 🛠️ Side projects: [PCILeechFWGenerator](https://github.com/yourrepo), “KMBox” firmware, embedded tinkering  
+- 🛠️ Side projects: [PCILeechFWGenerator](https://github.com/voltcyclone/pcileechfwgenerator), “KMBox” firmware, embedded tinkering  
 - 🏡 Home lab addict (Mikrotik, Proxmox, Home Assistant)
 - 🎯 Goal: Make things faster, leaner, and actually work in production
 
