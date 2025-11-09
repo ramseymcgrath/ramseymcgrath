@@ -9,7 +9,7 @@ Building **infra that doesn’t fall over** and hacking on **USB/HID/DMA weirdne
 - 🚀 Focus: Kubernetes, Terraform, Observability, USB HID bridges
 - 🛠️ Side projects: [PCILeechFWGenerator](https://github.com/voltcyclone/pcileechfwgenerator), “KMBox” firmware, embedded tinkering
 - 💎 [Indexerglue](https://indexerglue.com) Usenet indexer proxy and aggregator
-- 🏡 Home lab addict (Mikrotik, Proxmox, Home Assistant)
+- 🏡 Home lab addict (Mikrotik, Arr's and Home Assistant)
 - 🎯 Goal: Make things faster, leaner, and actually work in production
 
 ---
