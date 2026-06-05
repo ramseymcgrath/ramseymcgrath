@@ -6,10 +6,10 @@ Building **infra that doesn’t fall over** and hacking on **USB/HID/DMA weirdne
 ---
 
 ## ⚡ Quick Facts
-- 🚀 Focus: Kubernetes, Terraform, Observability, USB HID bridges
-- 🛠️ Side projects: [PCILeechFWGenerator](https://github.com/voltcyclone/pcileechfwgenerator), “KMBox” firmware, embedded tinkering
-- 💎 [Indexerglue](https://indexerglue.com) Usenet indexer proxy and aggregator
-- 🎯 Goal: Make things faster, leaner, and actually work in production
+-  Focus: Kubernetes, Terraform, Observability, USB HID bridges
+-  Side projects: [PCILeechFWGenerator](https://github.com/voltcyclone/pcileechfwgenerator), [Hurra](https://github.com/voltcyclone/Hurra-v2) USB HID proxy,
+-  [Indexerglue](https://indexerglue.com) Usenet indexer proxy and aggregator, [Back2base](https://github.com/back2base/oss-back2base) Code agent platform
+-  Goal: Make things faster, leaner, and actually work in production
 
 ---
 
@@ -24,11 +24,13 @@ Building **infra that doesn’t fall over** and hacking on **USB/HID/DMA weirdne
 
 ---
 
-## 📡 Recent Projects
-- 🔬 **DMA Firmware Generator** – automate Vivado flows + PCIe stealth configs
-- 🖱️ **USB HID Proxy** – ultra-low-latency mouse passthrough/injection
-- 📊 **Datadog Integrations** – Kyverno metrics, custom log pipelines
-- 🌐 **Terraform EKS Module** – powering multi-tenant infra @ scale
+##  Recent Projects
+-  **DMA Firmware Generator** – automate Vivado flows + PCIe stealth configs
+-  **Hurra HID Proxy** – ultra-low-latency mouse passthrough/injection
+-  **Datadog Integrations** – Kyverno metrics, custom log pipelines
+-  **Terraform EKS Module** – powering multi-tenant infra @ scale
+-  **Back2Base** – Containerized claude code env
+
 
 ---
 
