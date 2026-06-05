@@ -7,7 +7,7 @@ Building **infra that doesn’t fall over** and hacking on **USB/HID/DMA weirdne
 
 ## ⚡ Quick Facts
 -  Focus: Kubernetes, Terraform, Observability, USB HID bridges
--  Side projects: [PCILeechFWGenerator](https://github.com/voltcyclone/pcileechfwgenerator), [Hurra](https://github.com/voltcyclone/Hurra-v2) USB HID proxy, [Back2base](https://github.com/back2base/oss-back2base) Code agent platform
+-  Side projects: [PCILeechFWGenerator](https://github.com/voltcyclone/pcileechfwgenerator), [Hurra](https://github.com/voltcyclone/Hurra-v2), [Back2base](https://github.com/back2base/oss-back2base)
 -  Goal: Make things faster, leaner, and actually work in production
 
 ---
